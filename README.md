@@ -1,5 +1,12 @@
 # Ombori React Code Test
 
+Post test notes and thoughts:
+1. Implemented in Typescript/React
+2. Clean console
+3. Improvements on the loading animation could be done (just could not wrap my head around it)
+4. Really wished I could have done some unit testing
+___
+
 Hi there, we're really excited that you've made it this far in our interview process and look forward to getting to know you better.
 
 At Ombori, we strive to build fantastic apps using well structured and efficient code.
