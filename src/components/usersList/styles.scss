@@ -1,0 +1,31 @@
+.user-list {
+    padding: 10px;
+}
+
+.user-card {
+    display:inline-block;
+    padding: 10px;  
+}
+span{
+    display:inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+
+img {
+    border-radius: 50%;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (max-width: 480px) {
+    img {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+hr {
+    height: 0.3px;
+}
